@@ -10,4 +10,5 @@ public interface TestInterface {
 	void a();
 	void a2();
 	void a3();
+	void a4();
 }
