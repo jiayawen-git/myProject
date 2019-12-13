@@ -9,4 +9,5 @@ package com.jyw.interfaces;
 
 public interface  Test {
 	void a1();
+	void a2();
 }
